@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+In this App you can Add your work what you want to do in a day and after completion of the work you can delete the work as well .
+
 In the project directory, you can run:
 
 ### `npm start`
